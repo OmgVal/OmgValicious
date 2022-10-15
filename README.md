@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @OmgValicious
-- 👀 I’m interested in Learning to code
-- 🌱 I’m currently learning how to code 👩‍💻
-- 💞️ I’m looking to collaborate on ... presumably some coding work 
-- 📫 How to reach me ...
+👩🏻‍💻 Hi, I’m Val! 👩🏻‍💻
 
-<!---
-OmgValicious/OmgValicious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤠 I'm a Full-Stack Software engineer! 🤠 
+
+🤓 I love learning new things -- Knowledge IS power!! 🤓 <br>
+🤩 I love bring my designs to life. 🤩
+
+👾 When im not coding I'm generally playing video games. 👾 <br>
+🥳 My current faves are Rocket League (I'm obsessed) and Valorant. 🥳
